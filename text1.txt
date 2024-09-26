@@ -1,0 +1,1 @@
+14) sequence number of the TCP SYN segment is 0,image add for absolute sequence
